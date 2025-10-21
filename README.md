@@ -1,9 +1,9 @@
-# App-Dev
+### App-Dev
 My first repository
 
-### The Nun (2018)
+# The Nun (2018)
 
-# Characters
+### Characters
 **Sister Irene**
 - A young novice nun with visions
 - Sent by the Vatican to investigate the abbey
